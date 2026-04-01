@@ -19,4 +19,20 @@ This project analyzes marine water quality data from Hong Kong to identify trend
 - Statsmodels
 - Scikit-learn
 
-## Project Structure
+## Analysis Performed
+The following analysis was conducted:
+- Data cleaning and preprocessing
+- Handling missing values
+- Exploratory Data Analysis (EDA)
+- Correlation analysis between environmental variables
+- T-tests to compare water quality indicators across depths
+- Regression analysis to study relationships between variables
+- Data visualization (scatter plots, line plots, heatmaps)
+
+## Key Findings
+- Significant differences were observed in water quality indicators across different depths.
+- Nitrogen levels showed relationships with dissolved oxygen and turbidity.
+- Seasonal trends were observed in temperature and salinity levels.
+- Regression analysis helped model relationships between environmental indicators.
+
+---
