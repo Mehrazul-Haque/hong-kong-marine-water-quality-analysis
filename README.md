@@ -3,6 +3,9 @@
 ## Project Overview
 This project analyzes marine water quality data from Hong Kong to identify trends, seasonal patterns, and relationships between environmental indicators.
 
+## Dataset
+Hong Kong Environmental Protection Department marine water quality dataset (20+ years of observations).
+
 ## Objectives
 - Clean and preprocess marine water quality data
 - Perform exploratory data analysis
@@ -35,4 +38,12 @@ The following analysis was conducted:
 - Seasonal trends were observed in temperature and salinity levels.
 - Regression analysis helped model relationships between environmental indicators.
 
----
+
+## Results
+- Built models across 10 water control zones
+- R² up to ~0.38
+- RMSE around 1.1–1.6 mg/L
+- Identified multicollinearity among nitrogen variables
+
+## Author
+Mehrazul Haque
